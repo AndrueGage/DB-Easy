@@ -5,12 +5,6 @@
 
 This is a full stack web application that connects a mysql database for the user to interact with. Users add their dogs information into Dog Boarding Ez and then are able to schedule boarding dates,  using our dynamic calender. 
 
-## Table of Contents
-
-- [Features](#features)
-- [Instruction](#instruction)
-- [Credits](#credits)
-- [License](#license)
 
 ## Features
 
